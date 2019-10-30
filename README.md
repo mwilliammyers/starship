@@ -1,6 +1,6 @@
 # starship
 
-> [`fisher`] integration for [`starship`]
+> [`fisher`] integration for the [`starship`] prompt
 
 ## Install
 1. Install the [`starship`] binary.
