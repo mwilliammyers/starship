@@ -7,7 +7,7 @@
 1. Install this [`fish`] config via [`fisher`]:
 
   ```fish
-  fisher add mwilliammyers/starship
+  fisher install mwilliammyers/starship
   ```
 
 
