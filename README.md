@@ -3,13 +3,14 @@
 > [`fisher`] integration for the [`starship`] prompt
 
 ## Install
-1. Install the [`starship`] binary.
-1. Install this [`fish`] config via [`fisher`]:
 
-  ```fish
-  fisher install mwilliammyers/starship
-  ```
+Install this [`fish`] config via [`fisher`]:
 
+```fish
+fisher install mwilliammyers/starship
+```
+
+It will try to install the [`starship`] binary for you.
 
 [`fish`]: https://fishshell.com
 [`fisher`]: https://github.com/jorgebucaran/fisher
